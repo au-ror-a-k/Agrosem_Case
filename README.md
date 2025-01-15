@@ -1,8 +1,16 @@
+This repository is for an educational project as part of the Operations Management subject. Five of us were working on it 
+Gusev Radomyr: https://github.com/rhusiev
+Nataliia Sydor: https://github.com/NataMontari
+Babenko Alina: https://github.com/rediskaJunior
+Я
+And Paliychuk Vitaliy
+
+The essence of this project was to create a script that would automatically calculate the required quantity of goods to be purchased for the next month, depending on the amount of goods in stock and the month of the year, which also changes demand.
+
 # To run the analysis you need to:
 
 1. first add the agrosem.csv to `data/agrosem.csv` 
 2. type in terminal `python main_script.py`
-
 
 
 # Description of the working algorithm

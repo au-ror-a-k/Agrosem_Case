@@ -1,6 +1,6 @@
 This repository is for an educational project as part of the Operations Management subject. Five of us were working on it 
 
-- Gusev Radomyr: https://github.com/rhusiev
+- Husiev Radomyr: https://github.com/rhusiev
 - Nataliia Sydor: https://github.com/NataMontari
 - Babenko Alina: https://github.com/rediskaJunior
 - Paliychuk Vitaliy: https://github.com/Vitaliypn
